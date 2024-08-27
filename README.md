@@ -2,6 +2,6 @@ Mini Quiz App
 
 to start a project:
 
-npm intall
+npm install
 
 npm run dev
